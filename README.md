@@ -1,7 +1,8 @@
-### Hi, I am Paylin
+### Hi, I am Paulo
 
-- 🎶 Music lover.
-- 🎶 All the sounds around the world.
+- Computer science student
+- Music lover
+- in love about technology
 
 <div align="center">
   <a href="https://github.com/iampaylin">
