@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 💬 Hi, I'm a brazilian computer science student<br>⚡ Fun fact: i love to listen to songs
 
 
