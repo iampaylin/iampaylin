@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://lol-skin.weblog.vc/img/wallpaper/splash/Lulu_14.jpg?1658832343" alt="Lulu feiticeira cósmica" height="180">
-  <img src="https://c.tenor.com/ELKlwY3rMeIAAAAC/lulu-lulu-lol.gif" height="180" >
-  <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_4.jpg" height="180" >
+  <img src="https://lol-skin.weblog.vc/img/wallpaper/splash/Lulu_14.jpg?1658832343" alt="Lulu feiticeira cósmica" height="150">
+  <img src="https://c.tenor.com/ELKlwY3rMeIAAAAC/lulu-lulu-lol.gif" height="150" >
+  <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_4.jpg" height="150" >
 </p>
 
 <h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile;%22Play+that+audio%22;%22That's+the+motto%22;%22This+hell+is+better+with+you%22" alt="Typing SVG" /></a> </h3>
