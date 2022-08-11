@@ -5,11 +5,9 @@
 
 - How to reach me **itspaylin@gmail.com**
 
-## Spotify Playing
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/4gvin36hbuyictiwzrvnis9b1)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/iampaylin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iampaylin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/paylin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paylin/" height="30" width="40" /></a>
 <a href="https://discord.gg/Paylin#4969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Paylin#4969" height="30" width="40" /></a>
