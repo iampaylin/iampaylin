@@ -1,21 +1,36 @@
-<h1 align="center">Hi 👋, I'm Paylin</h1>
-<h3 align="center">i love to listen to songs</h3>
-
-- I’m currently learning **JavaScript, nodejs, vuejs, etc.**
-
-- How to reach me **itspaylin@gmail.com**
-
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/iampaylin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iampaylin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/paylin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paylin/" height="30" width="40" /></a>
-<a href="https://discord.gg/Paylin#4969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Paylin#4969" height="30" width="40" /></a>
+  <img src="https://lol-skin.weblog.vc/img/wallpaper/splash/Lulu_14.jpg?1658832343" alt="Lulu feiticeira cósmica" height="180">
+  <img src="https://c.tenor.com/ELKlwY3rMeIAAAAC/lulu-lulu-lol.gif" height="180" >
+  <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_4.jpg" height="180" >
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile;%22Play+that+audio%22;%22That's+the+motto%22;%22This+hell+is+better+with+you%22" alt="Typing SVG" /></a> </h3>
 
-<div align="center">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4gvin36hbuyictiwzrvnis9b1&cover_image=true&theme=natemoo-re&bar_color=0fadc2&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-</div>
+<h2 align="center">Music room</h3>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4gvin36hbuyictiwzrvnis9b1&cover_image=true&theme=novatorem&bar_color=24aac2&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=Paylin&count=3&width=1000&loved=true&loved_style=4)](https://www.last.fm/user/Paylin)
+
+<h2 align="center">Technologies</h3> 
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,github,vscode" />
+</p>
+
+<h2 align="center"> Social networks</h2>
+
+<p align="center">
+  <a href="https://www.instagram.com/paylin.js/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/paylin/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="discordapp.com/users/570003418517864448">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
+
+
+
