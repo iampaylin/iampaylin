@@ -1,16 +1,8 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif" >
+  <img src="https://64.media.tumblr.com/7893082199932afa9f207b0ddc7f5bfc/cc7244b5987aad74-c7/s540x810/e81001b02928b4888c87530184bc79fb2f9dc642.gifv" width="33%" height="200">
+  <img src="https://images.squarespace-cdn.com/content/v1/5ca30583815512710c700f5b/1587442045637-SBKJLVT3CIVGHD359MML/ezgif.com-optimize+%2819%29.gif" width="33%" height="200">
+  <img src="https://64.media.tumblr.com/1b868420f1e16d7411328ad1a900182f/fdad04be686664f5-e7/s500x750/0637f3d544698a1a3b7708216df098ff23fea020.gif" width="33%" height="200">
 </p>
-
----
-
-<h2 align="center"> Music room </h2>
-  
-  <p align="center">
-    <img src="https://cdn.discordapp.com/attachments/1020046868794847412/1020053689873989672/Untitledcapa1.png">
-  </p>
-  
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=Paylin&count=3&width=1000&loved=true&loved_style=4)](https://www.last.fm/user/Paylin)
 
 ---
 
@@ -52,6 +44,10 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<h2 align="center"> Music room </h2>
+  
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=Paylin&count=3&width=1000&loved=true&loved_style=4)](https://www.last.fm/user/Paylin)
 
 
 
