@@ -1,5 +1,3 @@
----
-
 <h2 align="center">Technologies</h2> 
 
 <p align="center">
@@ -7,6 +5,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,java,python,c" />
   </a>
 </p>
+
+---
 
 <p align="center">
   
