@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1020046868794847412/1025103164808114227/iam4ming-anime.gif" width="200" height="200">
+  <img src="https://cdn.discordapp.com/attachments/1020046868794847412/1025104396905873438/8c8f55031342899312a5471a18baeb56.jpg" width="200" height="200">
+  <img src="https://cdn.discordapp.com/attachments/1020046868794847412/1025103960555667516/anime-spirited.gif" width="200" height="200">
+</p>
+
+---
+
 <h2 align="center">Technologies</h2> 
 
 <p align="center">
