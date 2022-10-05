@@ -38,6 +38,6 @@
 
 <h2 align="center"> Music room </h2>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=4gvin36hbuyictiwzrvnis9b1&count=5&width=600)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=4gvin36hbuyictiwzrvnis9b1&count=5&width=300)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4gvin36hbuyictiwzrvnis9b1&cover_image=true&theme=compact&show_offline=true)](https://github.com/kittinan/spotify-github-profile)
