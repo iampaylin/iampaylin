@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1020046868794847412/1025103164808114227/iam4ming-anime.gif" width="200" height="200">
-  <img src="https://cdn.discordapp.com/attachments/1020046868794847412/1025104396905873438/8c8f55031342899312a5471a18baeb56.jpg" width="200" height="200">
-  <img src="https://cdn.discordapp.com/attachments/1020046868794847412/1025103960555667516/anime-spirited.gif" width="200" height="200">
-</p>
-
----
-
 <h2 align="center">Technologies</h2> 
 
 <p align="center">
@@ -42,11 +34,10 @@
   <a>
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
-  <a>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 <h2 align="center"> Music room </h2>
-  
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=Paylin&count=3&width=1000&loved=true&loved_style=4)](https://www.last.fm/user/Paylin)
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=4gvin36hbuyictiwzrvnis9b1&count=5&width=600)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4gvin36hbuyictiwzrvnis9b1&cover_image=true&theme=compact&show_offline=true)](https://github.com/kittinan/spotify-github-profile)
