@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1020046868794847412/1030130491975815248/73f9d44474ceac1cb5ce37c4e9da32ab2735f27c_hq.gif">
+</div>
+
 <h2 align="center">Technologies</h2> 
 
 <p align="center">
