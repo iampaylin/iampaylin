@@ -30,7 +30,6 @@
   <img src="https://t2.genius.com/unsafe/631x0/https%3A%2F%2Fimages.genius.com%2F522b64c7d14b49c118a4b18bed212278.1000x1000x1.jpg" width="120">
   <img src="https://t2.genius.com/unsafe/631x0/https%3A%2F%2Fimages.genius.com%2F0163fd2bf458dcb8fa4a276b1b03fe98.999x999x1.png" width="120">
   <img src="https://t2.genius.com/unsafe/631x0/https%3A%2F%2Fimages.genius.com%2Feae7745edb096f44cccfd9123e52a4f1.1000x1000x1.png" width="120">
-  <img src="https://t2.genius.com/unsafe/631x0/https%3A%2F%2Fimages.genius.com%2F135e9ae4d19e7816e0ffdd9a95922a0c.1000x1000x1.jpg" width="120">
 </div>
 
 ---
