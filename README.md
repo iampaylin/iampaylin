@@ -1,47 +1,40 @@
+ <h1 align="center">Happy Hallowen</h1>
+ <div>
+   <img align="right" src="https://cdn.discordapp.com/attachments/1020046868794847412/1035587096699748483/307098402143201.png" width="290"/>
+ </div>
+
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1020046868794847412/1030130491975815248/73f9d44474ceac1cb5ce37c4e9da32ab2735f27c_hq.gif">
+  <br>
+  <br>
+  <h3>Tecnologies</h3>
+    <p>
+        <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+    </p>
+    <p>
+        <img src="https://skillicons.dev/icons?i=java,python,c" />
+    </p>
+   <br>
 </div>
 
-<h2 align="center">Technologies</h2> 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,java,python,c" />
-  </a>
-</p>
-
 ---
 
-<p align="center">
-  
-  <a href="">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-  </a>
-  
-</p>
+<br>
 
----
-
-<h2 align="center"> Social networks</h2>
-
-<p align="center">
-  <a href="https://www.instagram.com/paylin.js/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/paylin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
-</p>
+<img align="left" src="https://cdn.discordapp.com/attachments/1020046868794847412/1035587505354973225/FeT0z9wXkAolkBh_2.jpg" width="290"/>
 
 <h2 align="center"> Music room </h2>
 
+<div align="center">
+  <h3> Favorite albuns </h3>
+  <img src="https://t2.genius.com/unsafe/631x0/https%3A%2F%2Fimages.genius.com%2F395eb4a5e6aa04c8574425345cd816f5.894x894x1.png" width="120">
+  <img src="https://t2.genius.com/unsafe/631x0/https%3A%2F%2Fimages.genius.com%2F522b64c7d14b49c118a4b18bed212278.1000x1000x1.jpg" width="120">
+  <img src="https://t2.genius.com/unsafe/631x0/https%3A%2F%2Fimages.genius.com%2F0163fd2bf458dcb8fa4a276b1b03fe98.999x999x1.png" width="120">
+  <img src="https://t2.genius.com/unsafe/631x0/https%3A%2F%2Fimages.genius.com%2Feae7745edb096f44cccfd9123e52a4f1.1000x1000x1.png" width="120">
+  <img src="https://t2.genius.com/unsafe/631x0/https%3A%2F%2Fimages.genius.com%2F135e9ae4d19e7816e0ffdd9a95922a0c.1000x1000x1.jpg" width="120">
+</div>
+
+---
+
+<br>
+
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=4gvin36hbuyictiwzrvnis9b1&count=5&width=1000)
-
-
