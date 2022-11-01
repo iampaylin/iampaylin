@@ -2,8 +2,6 @@
  <div>
    <img align="right" src="https://cdn.discordapp.com/attachments/1020046868794847412/1025104396905873438/8c8f55031342899312a5471a18baeb56.jpg" width="50%"/>
  </div>
-
-<br>
  
 <div>
  <h3 align="center">About me</h3>
@@ -32,7 +30,7 @@
 <img align="left" src="https://cdn.discordapp.com/attachments/1020046868794847412/1025103164808114227/iam4ming-anime.gif" width="50%"/>
 
 <br>
-  
+
 <div align="center">
   <h3> Favorite albuns </h3>
   <div>
@@ -45,7 +43,6 @@
   </div>
 </div>
 
-<br>
 <br>
 <br>
 <br>
