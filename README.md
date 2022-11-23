@@ -10,6 +10,9 @@
 <p><b>Idade:</b> 18 anos<p>
 <p><b>Front-end developer</b><p>
 
+<br>
+<br>
+
 [![card](https://github-readme-stats.vercel.app/api?username=iampaylin&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  
 <br>
