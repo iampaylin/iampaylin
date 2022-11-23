@@ -2,7 +2,7 @@
  <h1>FIFA World Cup Qatar 2022™ readme theme</h1>
 </div>
 
-<img align="right" src="https://cdn.discordapp.com/attachments/1020046868794847412/1044731403809603694/ufp9p8wc4fqawmnx3ouf.jpg" max-width="400px" width="400px" align="right">
+<img align="right" src="https://cdn.discordapp.com/attachments/1020046868794847412/1044731403809603694/ufp9p8wc4fqawmnx3ouf.jpg" max-width="280px" width="280px" align="right">
 
 ### Sobre Mim
 
