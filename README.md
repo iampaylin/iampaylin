@@ -1,30 +1,39 @@
-# Paulo Cesar
+<h1 align="center">Paulo Cesar</h1>
 
 <br>
 
-<img src"https://w0.peakpx.com/wallpaper/13/268/HD-wallpaper-video-game-the-last-of-us-part-ii-ellie-the-last-of-us-the-last-of-us.jpg"/>
+<div align="center">
+    <img src="https://w0.peakpx.com/wallpaper/13/268/HD-wallpaper-video-game-the-last-of-us-part-ii-ellie-the-last-of-us-the-last-of-us.jpg">
+</div>
+
 
 <br>
 
 ~~~javascript
 const Paylin = {
     name: "Paulo Cesar",
-    age: 19
+    age: 19,
+    song: "stressed out"
 }
 ~~~
 
+<h1 align="center">Tools</h1>
+
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git, github, vscode, vite, figma, discord, netlify" />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,figma,discord,netlify" />
     </a>
 </p>
 
 <br>
 
+<h1 align="center">Languages</h1>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html, css, js, react, ts, mysql, sass" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,mysql,sass" />
     </a>
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4gvin36hbuyictiwzrvnis9b1&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=1fd13d&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=4gvin36hbuyictiwzrvnis9b1&redirect=true)
+<br>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4gvin36hbuyictiwzrvnis9b1&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=4gvin36hbuyictiwzrvnis9b1&redirect=true)
