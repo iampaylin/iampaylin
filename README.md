@@ -13,7 +13,7 @@
 const Paylin = {
     name: "Paulo Cesar",
     age: 19,
-    song: "stressed out"
+    song: "houdini"
 }
 ~~~
 
@@ -30,7 +30,7 @@ const Paylin = {
 <h1 align="center">Languages</h1>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,mysql,sass" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,python" />
     </a>
 </p>
 
