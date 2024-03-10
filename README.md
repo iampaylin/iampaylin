@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-    <img src="https://w0.peakpx.com/wallpaper/13/268/HD-wallpaper-video-game-the-last-of-us-part-ii-ellie-the-last-of-us-the-last-of-us.jpg">
+    <img src="https://i.redd.it/kw9ctdzil1a91.gif">
 </div>
 
 
