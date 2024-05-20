@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-    <img src="https://i.redd.it/kw9ctdzil1a91.gif">
+    <img src="https://i.pinimg.com/originals/7c/0d/6f/7c0d6f461f8685dc37c12a2edc9cd856.gif">
 </div>
 
 
@@ -30,7 +30,7 @@ const Paylin = {
 <h1 align="center">Languages</h1>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,python" />
+        <img src="https://skillicons.dev/icons?i=html,css,php,js,sass,python" />
     </a>
 </p>
 
