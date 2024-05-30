@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-    <img src="https://i.pinimg.com/originals/7c/0d/6f/7c0d6f461f8685dc37c12a2edc9cd856.gif">
+    <img src="https://moewalls.com/wp-content/uploads/2022/03/ellie-playing-guitar-in-the-jungle-the-last-of-us-part-ii-thumb.jpg">
 </div>
 
 
