@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-    <img src="https://rollingstone.com.br/media/uploads/phoebe_waller_-_fleabag.jpg">
+    <img src="https://miro.medium.com/v2/resize:fit:960/1*4PeMGpwV1hitYtLzO7WKMA.gif">
 </div>
 
 
