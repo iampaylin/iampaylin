@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-    <img src="https://moewalls.com/wp-content/uploads/2022/03/ellie-playing-guitar-in-the-jungle-the-last-of-us-part-ii-thumb.jpg">
+    <img src="https://rollingstone.com.br/media/uploads/phoebe_waller_-_fleabag.jpg">
 </div>
 
 
@@ -30,7 +30,7 @@ const Paylin = {
 <h1 align="center">Languages</h1>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,php,sass,python" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap" />
     </a>
 </p>
 
