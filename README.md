@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:960/1*4PeMGpwV1hitYtLzO7WKMA.gif">
+    <img src="https://media.discordapp.net/attachments/1248713769450737816/1297604663197171823/Banner.png?ex=67168804&is=67153684&hm=989292f2570e75a2acc22b5559ed835555b6bb4e64a4a4d8245ff7e6f8687b46&=&format=webp&quality=lossless&width=1246&height=701">
 </div>
 
 
