@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/1248713769450737816/1297604663197171823/Banner.png?ex=67168804&is=67153684&hm=989292f2570e75a2acc22b5559ed835555b6bb4e64a4a4d8245ff7e6f8687b46&=&format=webp&quality=lossless&width=1246&height=701">
+    <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/03/vaggie-sitting-next-to-charlie-holding-keekee-in-hazbin-hotel.jpg">
 </div>
 
 
@@ -13,7 +13,8 @@
 const Paylin = {
     name: "Paulo Cesar",
     age: 20,
-    song: "Espresso"
+    song: "Two Faced"
+    motto: "I start to give in, but I can't bear"
 }
 ~~~
 
