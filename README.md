@@ -28,10 +28,10 @@ const Paylin = {
 
 <br>
 
-<h1 align="center">Languages</h1>
+<h1 align="center">Development</h1>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,bootstrap,python" />
     </a>
 </p>
 
