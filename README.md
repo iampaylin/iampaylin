@@ -35,6 +35,10 @@ const Paylin = {
     </a>
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4gvin36hbuyictiwzrvnis9b1&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=4gvin36hbuyictiwzrvnis9b1&redirect=true)
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=4gvin36hbuyictiwzrvnis9b1&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=4gvin36hbuyictiwzrvnis9b1&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Profile">
+  </a>
+</div>
 
 <br>
