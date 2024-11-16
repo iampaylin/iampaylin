@@ -13,7 +13,7 @@
 const Paylin = {
     name: "Paulo Cesar",
     age: 20,
-    song: "Two Faced"
+    song: "Two Faced",
     motto: "I start to give in, but I can't bear"
 }
 ~~~
