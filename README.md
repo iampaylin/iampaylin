@@ -31,7 +31,7 @@ const Paylin = {
 <h1 align="center">Development</h1>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,bootstrap,python" />
+        <img src="https://skillicons.dev/icons?i=js,react,sass,bootstrap,python" />
     </a>
 </p>
 
