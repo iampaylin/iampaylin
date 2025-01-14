@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/1248713769450737816/1318619754340028456/wallpaperflare.com_wallpaper.jpg?ex=6762fbd8&is=6761aa58&hm=f2d09d493856540d20c6754ecd21255e002b650b8380d5f8ea7a934fb496f2ea&=&format=webp&width=1246&height=701">
+    <img src="https://image-1.uhdpaper.com/wallpaper/heavenscale-kaisa-skin-lol-splash-art-hd-wallpaper-uhdpaper.com-701@1@n.jpg">
 </div>
 
 
