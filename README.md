@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-    <img src="https://image-1.uhdpaper.com/wallpaper/heavenscale-kaisa-skin-lol-splash-art-hd-wallpaper-uhdpaper.com-701@1@n.jpg">
+    <img src="https://image-1.uhdpaper.com/wallpaper/heavenscale-kaisa-skin-lol-splash-art-hd-wallpaper-uhdpaper.com-701@1@n.jpg"/>
 </div>
 
 
