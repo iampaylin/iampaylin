@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-    ![Ma Meilleure Ennemie]([https://exemplo.com/seu-gif.gif](https://64.media.tumblr.com/c888bc02a7fd1b0783072feb863560fd/0e92d410a10af0bb-d5/s540x810/9343272fbdfd65137fb9bfc009efaaa248b8edda.gif))
+    ![Ma Meilleure Ennemie]([https://64.media.tumblr.com/c888bc02a7fd1b0783072feb863560fd/0e92d410a10af0bb-d5/s540x810/9343272fbdfd65137fb9bfc009efaaa248b8edda.gif])
 </div>
 
 
