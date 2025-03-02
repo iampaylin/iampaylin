@@ -16,7 +16,7 @@ const Paylin = {
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,figma,discord,netlify" />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
     </a>
 </p>
 
@@ -25,7 +25,7 @@ const Paylin = {
 <h1 align="center">Development</h1>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,react,sass,bootstrap,python" />
+        <img src="https://skillicons.dev/icons?i=js,react,sass,bootstrap,python,java" />
     </a>
 </p>
 
