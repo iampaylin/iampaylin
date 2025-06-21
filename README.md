@@ -6,9 +6,7 @@
 ~~~javascript
 const Paylin = {
     name: "Paulo Cesar",
-    age: 20,
-    song: "Two Faced",
-    motto: "I start to give in, but I can't bear"
+    age: 21,
 }
 ~~~
 
@@ -25,7 +23,7 @@ const Paylin = {
 <h1 align="center">Development</h1>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,react,sass,bootstrap,python,java" />
+        <img src="https://skillicons.dev/icons?i=js,react,sass,bootstrap,java" />
     </a>
 </p>
 
