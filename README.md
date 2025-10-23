@@ -2,7 +2,6 @@
 
 ~~~javascript
 const PauloCesar = {
-    name: "Paulo Cesar",
     age: 21,
     lightTheme: false,
     string: "Never look a tulip in the eye 🌷"
@@ -22,7 +21,7 @@ const PauloCesar = {
 <h1 align="center">Development</h1>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,sass,bootstrap,git,nodejs,npm&theme=light" />
+        <img src="https://skillicons.dev/icons?i=react,typescript,js,sass,bootstrap,git,nodejs,npm&theme=light" />
     </a>
 </p>
 
