@@ -1,12 +1,10 @@
 <h1 align="center">Paulo Cesar</h1>
 
-~~~javascript
-const PauloCesar = {
-    age: 21,
-    lightTheme: false,
-    string: "Never look a tulip in the eye 🌷"
-}
-~~~
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=4gvin36hbuyictiwzrvnis9b1&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
+  </a>
+</div>
 
 <h1 align="center">Tools</h1>
 
@@ -25,8 +23,4 @@ const PauloCesar = {
     </a>
 </p>
 
-<div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=4gvin36hbuyictiwzrvnis9b1&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
-  </a>
-</div>
+
